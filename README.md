@@ -21,3 +21,20 @@ Withdraw Money
 Check Account Balance
 
 Close (Delete) Account
+
+
+▶ How to Run the Project
+
+Download the project or clone the repo
+
+Import into Eclipse IDE
+
+Add MySQL Connector JAR
+
+Create the MySQL database (SQL given above)
+
+Update username & password
+
+Run Main.java
+
+Choose options from the menu (1–7)
