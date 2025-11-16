@@ -12,7 +12,7 @@ public class Main {
             System.out.println("3 : Show All Accounts");
             System.out.println("4 : Check Account Details");
             System.out.println("5 : Close Account");
-            System.out.println("6 : Diposite");
+            System.out.println("6 : Diposit");
             System.out.println("7 : Withdraw");
             System.out.println("8 : Check Balance");
             System.out.println("E : Exit");
@@ -55,4 +55,5 @@ public class Main {
         sc.close();
     }
 }
+
 
